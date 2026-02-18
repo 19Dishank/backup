@@ -1,0 +1,19 @@
+[
+    {
+        "heading": "Home",
+        "location": "/"
+    },
+    {
+        "heading": "About",
+        "location": "/about"
+    },
+    
+    {
+        "heading": "Country",
+        "location": "/country"
+    },
+    {
+        "heading": "Contact",
+        "location": "/contact"
+    }
+]
